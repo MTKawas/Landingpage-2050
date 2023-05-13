@@ -1,0 +1,103 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+.testnavber{
+    background-color: #4740AF;
+}
+.nav-link{
+    color: white;
+    font-weight: 700;
+    font-size: 18px;
+    margin-left: 35px;
+}
+.icon1{
+    margin-left: 13px;
+    margin-top: 13px;
+}
+.navbar-brand{
+    color: white;
+    font-weight: 700;
+    font-size: 40px;
+}
+.test-icons{
+    color: white;
+    font-weight: 700;
+}
+.test-banner{
+    background-color: #4740AF;
+    color: white;
+}
+.test1{
+    font-weight: 850;
+    font-size: 60px;
+}
+.test-2{
+    font-size: 20px;
+    font-weight: 400;
+}
+.test-radius{
+    color: white;
+    border: 1px solid #6c63ff;
+    background-color: #6c63ff;
+    padding: 12px 58px;
+    font-size: 18px;
+    font-weight: 600;
+    box-shadow: 0px 5px 15px 0px rgba(17, 8, 189, 0.19);
+    border-radius: 28px;
+    outline: 0 none;
+    text-transform: capitalize;
+    transition: .3s;
+    -webkit-border-radius: 28px;
+    text-decoration: none;
+}
+
+.aboutus-img{
+    margin-left: -280px;
+}
+
+
+.test-us{
+    color: #6c63ff;
+    font-weight: 700;
+    font-size: 22px;
+}
+.test-we{
+    font-weight: 700;
+    font-size: 45px;
+}
+.test-p1{
+    color: #666666;
+    font-size: 18px;
+    line-height: 1.55;
+}
+.test-a{
+    font-weight: 700;
+    color: #222222;
+}
+.service-image {
+    border-radius: 50%;
+    background-color: rgb(243, 249, 251);
+    margin-top: 40px;
+}
+.service-img{
+    margin-top: -100px;
+}
+.service-icons {
+    background-color: #6c63ff;
+    padding: 15px;
+    border-radius: 50%;
+    width: 55px;
+}
+
+.test-section{
+    background-color: rgb(243, 249, 251);
+}
+.test-choose-img {
+    margin-left: -80px;
+}
+.test-card{
+    border-bottom: 3px solid #6c63ff;
+}
+.test-a{
+    text-decoration: none;
+}
